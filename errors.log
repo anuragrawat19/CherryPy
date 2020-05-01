@@ -1,0 +1,1071 @@
+[30/Apr/2020:15:58:47] ENGINE Bus STARTING
+[30/Apr/2020:15:58:47] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:15:58:48] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:15:58:48] ENGINE Bus STARTED
+[30/Apr/2020:16:00:33] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:16:00:33] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:16:00:33] ENGINE Bus STOPPING
+[30/Apr/2020:16:00:33] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:16:00:33] ENGINE Bus STOPPED
+[30/Apr/2020:16:00:33] ENGINE Bus EXITING
+[30/Apr/2020:16:00:33] ENGINE Bus EXITED
+[30/Apr/2020:16:00:33] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:16:00:33] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:16:00:34] ENGINE Bus STARTING
+[30/Apr/2020:16:00:34] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:16:00:34] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:16:00:34] ENGINE Bus STARTED
+[30/Apr/2020:16:00:37]  hello there
+[30/Apr/2020:16:01:54] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:16:01:54] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:16:01:54] ENGINE Bus STOPPING
+[30/Apr/2020:16:01:54] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:16:01:54] ENGINE Bus STOPPED
+[30/Apr/2020:16:01:54] ENGINE Bus EXITING
+[30/Apr/2020:16:01:54] ENGINE Bus EXITED
+[30/Apr/2020:16:01:54] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:16:01:54] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:16:01:54] ENGINE Bus STARTING
+[30/Apr/2020:16:01:54] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:16:01:55] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:16:01:55] ENGINE Bus STARTED
+[30/Apr/2020:16:01:59]  hello there
+[30/Apr/2020:16:02:17] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:16:02:17] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:16:02:17] ENGINE Bus STOPPING
+[30/Apr/2020:16:02:17] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:16:02:17] ENGINE Bus STOPPED
+[30/Apr/2020:16:02:17] ENGINE Bus EXITING
+[30/Apr/2020:16:02:17] ENGINE Bus EXITED
+[30/Apr/2020:16:02:17] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:16:02:17] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:16:02:17] ENGINE Bus STARTING
+[30/Apr/2020:16:02:17] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:16:02:17] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:16:02:17] ENGINE Bus STARTED
+[30/Apr/2020:16:02:21]  hello there
+[30/Apr/2020:16:04:28] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:16:04:28] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:16:04:28] ENGINE Bus STOPPING
+[30/Apr/2020:16:04:28] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:16:04:28] ENGINE Bus STOPPED
+[30/Apr/2020:16:04:28] ENGINE Bus EXITING
+[30/Apr/2020:16:04:28] ENGINE Bus EXITED
+[30/Apr/2020:16:04:28] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:16:04:28] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:16:04:29] ENGINE Bus STARTING
+[30/Apr/2020:16:04:29] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:16:04:29] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:16:04:29] ENGINE Bus STARTED
+[30/Apr/2020:16:04:42] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:16:04:42] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:16:04:42] ENGINE Bus STOPPING
+[30/Apr/2020:16:04:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:16:04:42] ENGINE Bus STOPPED
+[30/Apr/2020:16:04:42] ENGINE Bus EXITING
+[30/Apr/2020:16:04:42] ENGINE Bus EXITED
+[30/Apr/2020:16:04:42] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:16:04:42] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:17:54:39] ENGINE Bus STARTING
+[30/Apr/2020:17:54:39] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:17:54:40] ENGINE Serving on http://127.0.0.1:8080
+[30/Apr/2020:17:54:40] ENGINE Bus STARTED
+[30/Apr/2020:17:54:50] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:17:54:50] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:17:54:50] ENGINE Bus STOPPING
+[30/Apr/2020:17:54:50] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 8080)) shut down
+[30/Apr/2020:17:54:50] ENGINE Bus STOPPED
+[30/Apr/2020:17:54:50] ENGINE Bus EXITING
+[30/Apr/2020:17:54:50] ENGINE Bus EXITED
+[30/Apr/2020:18:01:29] ENGINE Bus STARTING
+[30/Apr/2020:18:01:29] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:18:01:29] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:18:01:29] ENGINE Bus STARTED
+[30/Apr/2020:18:01:41] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:18:01:41] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:18:01:41] ENGINE Bus STOPPING
+[30/Apr/2020:18:01:41] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:18:01:41] ENGINE Bus STOPPED
+[30/Apr/2020:18:01:41] ENGINE Bus EXITING
+[30/Apr/2020:18:01:41] ENGINE Bus EXITED
+[30/Apr/2020:18:01:41] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:18:01:41] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:18:01:42] ENGINE Bus STARTING
+[30/Apr/2020:18:01:42] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:18:01:42] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:18:01:42] ENGINE Bus STARTED
+[30/Apr/2020:21:30:08] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:30:08] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:30:08] ENGINE Bus STOPPING
+[30/Apr/2020:21:30:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:30:08] ENGINE Bus STOPPED
+[30/Apr/2020:21:30:08] ENGINE Bus EXITING
+[30/Apr/2020:21:30:08] ENGINE Bus EXITED
+[30/Apr/2020:21:30:08] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:30:08] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:30:09] ENGINE Bus STARTING
+[30/Apr/2020:21:30:09] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:30:09] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:30:09] ENGINE Bus STARTED
+[30/Apr/2020:21:30:32] ENGINE Keyboard Interrupt: shutting down bus
+[30/Apr/2020:21:30:32] ENGINE Bus STOPPING
+[30/Apr/2020:21:30:32] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:30:32] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:30:32] ENGINE Bus STOPPED
+[30/Apr/2020:21:30:32] ENGINE Bus EXITING
+[30/Apr/2020:21:30:32] ENGINE Bus EXITED
+[30/Apr/2020:21:30:32] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:30:34] ENGINE Bus STARTING
+[30/Apr/2020:21:30:34] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:30:34] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:30:34] ENGINE Bus STARTED
+[30/Apr/2020:21:30:55]  hello there
+[30/Apr/2020:21:30:55] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 29, in index
+    google_appid = cherrypy.request.app.config['googleapi']['appid']
+KeyError: 'googleapi'
+[30/Apr/2020:21:30:55] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[30/Apr/2020:21:31:19] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:31:19] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:31:19] ENGINE Bus STOPPING
+[30/Apr/2020:21:31:19] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:31:19] ENGINE Bus STOPPED
+[30/Apr/2020:21:31:19] ENGINE Bus EXITING
+[30/Apr/2020:21:31:19] ENGINE Bus EXITED
+[30/Apr/2020:21:31:19] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:31:19] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:31:20] ENGINE Bus STARTING
+[30/Apr/2020:21:31:20] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:31:20] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:31:20] ENGINE Bus STARTED
+[30/Apr/2020:21:31:20]  hello there
+[30/Apr/2020:21:31:21]  hello there
+[30/Apr/2020:21:31:27] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:31:27] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:31:27] ENGINE Bus STOPPING
+[30/Apr/2020:21:31:30] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:31:30] ENGINE Bus STOPPED
+[30/Apr/2020:21:31:30] ENGINE Bus EXITING
+[30/Apr/2020:21:31:30] ENGINE Bus EXITED
+[30/Apr/2020:21:31:30] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:31:30] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:31:31] ENGINE Bus STARTING
+[30/Apr/2020:21:31:31] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:31:31] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:31:31] ENGINE Bus STARTED
+[30/Apr/2020:21:31:32]  hello there
+[30/Apr/2020:21:31:32] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 29, in index
+    google_appid = cherrypy.request.app.config['googleapi']['appid']
+KeyError: 'googleapi'
+[30/Apr/2020:21:31:32] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[30/Apr/2020:21:32:18] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:32:18] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:32:18] ENGINE Bus STOPPING
+[30/Apr/2020:21:32:18] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:32:18] ENGINE Bus STOPPED
+[30/Apr/2020:21:32:18] ENGINE Bus EXITING
+[30/Apr/2020:21:32:18] ENGINE Bus EXITED
+[30/Apr/2020:21:32:18] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:32:18] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:32:19] ENGINE Bus STARTING
+[30/Apr/2020:21:32:19] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:32:19] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:32:19] ENGINE Bus STARTED
+[30/Apr/2020:21:32:22]  hello there
+[30/Apr/2020:21:32:22] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 30, in index
+    google_appid = cherrypy.request.app.config['googleapi']['appid']
+KeyError: 'googleapi'
+[30/Apr/2020:21:32:22] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[30/Apr/2020:21:32:23]  hello there
+[30/Apr/2020:21:32:23] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 30, in index
+    google_appid = cherrypy.request.app.config['googleapi']['appid']
+KeyError: 'googleapi'
+[30/Apr/2020:21:32:23] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[30/Apr/2020:21:32:24]  hello there
+[30/Apr/2020:21:32:24] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 30, in index
+    google_appid = cherrypy.request.app.config['googleapi']['appid']
+KeyError: 'googleapi'
+[30/Apr/2020:21:32:24] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[30/Apr/2020:21:32:31] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:32:31] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:32:31] ENGINE Bus STOPPING
+[30/Apr/2020:21:32:32] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:32:32] ENGINE Bus STOPPED
+[30/Apr/2020:21:32:32] ENGINE Bus EXITING
+[30/Apr/2020:21:32:32] ENGINE Bus EXITED
+[30/Apr/2020:21:32:32] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:32:32] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:32:33] ENGINE Bus STARTING
+[30/Apr/2020:21:32:33] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:32:33] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:32:33] ENGINE Bus STARTED
+[30/Apr/2020:21:32:48] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:32:48] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:32:48] ENGINE Bus STOPPING
+[30/Apr/2020:21:32:48] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:32:48] ENGINE Bus STOPPED
+[30/Apr/2020:21:32:48] ENGINE Bus EXITING
+[30/Apr/2020:21:32:48] ENGINE Bus EXITED
+[30/Apr/2020:21:32:48] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:32:48] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:32:49] ENGINE Bus STARTING
+[30/Apr/2020:21:32:49] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:32:49] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:32:49] ENGINE Bus STARTED
+[30/Apr/2020:21:32:50]  hello there
+[30/Apr/2020:21:32:51]  hello there
+[30/Apr/2020:21:32:51]  hello there
+[30/Apr/2020:21:32:51]  hello there
+[30/Apr/2020:21:33:35] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:33:35] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:33:35] ENGINE Bus STOPPING
+[30/Apr/2020:21:33:35] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:33:35] ENGINE Bus STOPPED
+[30/Apr/2020:21:33:35] ENGINE Bus EXITING
+[30/Apr/2020:21:33:35] ENGINE Bus EXITED
+[30/Apr/2020:21:33:35] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:33:35] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:33:36] ENGINE Bus STARTING
+[30/Apr/2020:21:33:36] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:33:36] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:33:36] ENGINE Bus STARTED
+[30/Apr/2020:21:33:42] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[30/Apr/2020:21:33:42] ENGINE Stopped thread 'Autoreloader'.
+[30/Apr/2020:21:33:42] ENGINE Bus STOPPING
+[30/Apr/2020:21:33:42] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[30/Apr/2020:21:33:42] ENGINE Bus STOPPED
+[30/Apr/2020:21:33:42] ENGINE Bus EXITING
+[30/Apr/2020:21:33:42] ENGINE Bus EXITED
+[30/Apr/2020:21:33:42] ENGINE Waiting for child threads to terminate...
+[30/Apr/2020:21:33:42] ENGINE Re-spawning python3 learning_cherrypy.py
+[30/Apr/2020:21:33:44] ENGINE Bus STARTING
+[30/Apr/2020:21:33:44] ENGINE Started monitor thread 'Autoreloader'.
+[30/Apr/2020:21:33:44] ENGINE Serving on http://127.0.0.1:9090
+[30/Apr/2020:21:33:44] ENGINE Bus STARTED
+[30/Apr/2020:21:33:45]  hello there
+[30/Apr/2020:21:33:46]  hello there
+[01/May/2020:21:01:52] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:01:53] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:01:53] ENGINE Bus STOPPING
+[01/May/2020:21:01:53] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:01:53] ENGINE Bus STOPPED
+[01/May/2020:21:01:53] ENGINE Bus EXITING
+[01/May/2020:21:01:53] ENGINE Bus EXITED
+[01/May/2020:21:01:53] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:01:53] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:03:15] ENGINE Bus STARTING
+[01/May/2020:21:03:15] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:03:15] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:03:15] ENGINE Bus STARTED
+[01/May/2020:21:03:26] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:03:26] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:03:26] ENGINE Bus STOPPING
+[01/May/2020:21:03:26] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:03:26] ENGINE Bus STOPPED
+[01/May/2020:21:03:26] ENGINE Bus EXITING
+[01/May/2020:21:03:26] ENGINE Bus EXITED
+[01/May/2020:21:03:26] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:03:26] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:03:27] ENGINE Bus STARTING
+[01/May/2020:21:03:27] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:03:27] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:03:27] ENGINE Bus STARTED
+[01/May/2020:21:03:29]  hello there
+[01/May/2020:21:04:02] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:04:02] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:04:02] ENGINE Bus STOPPING
+[01/May/2020:21:04:02] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:04:02] ENGINE Bus STOPPED
+[01/May/2020:21:04:02] ENGINE Bus EXITING
+[01/May/2020:21:04:02] ENGINE Bus EXITED
+[01/May/2020:21:04:02] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:04:02] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:04:03] ENGINE Bus STARTING
+[01/May/2020:21:04:03] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:04:03] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:04:03] ENGINE Bus STARTED
+[01/May/2020:21:04:09] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:04:09] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:04:09] ENGINE Bus STOPPING
+[01/May/2020:21:04:09] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:04:09] ENGINE Bus STOPPED
+[01/May/2020:21:04:09] ENGINE Bus EXITING
+[01/May/2020:21:04:09] ENGINE Bus EXITED
+[01/May/2020:21:04:09] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:04:09] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:04:10] ENGINE Bus STARTING
+[01/May/2020:21:04:10] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:04:10] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:04:10] ENGINE Bus STARTED
+[01/May/2020:21:04:12]  hello there
+[01/May/2020:21:04:19] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:04:19] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:04:19] ENGINE Bus STOPPING
+[01/May/2020:21:04:20]  hello there
+[01/May/2020:21:04:20] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:04:20] ENGINE Bus STOPPED
+[01/May/2020:21:04:20] ENGINE Bus EXITING
+[01/May/2020:21:04:20] ENGINE Bus EXITED
+[01/May/2020:21:04:20] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:04:20] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:04:21] ENGINE Bus STARTING
+[01/May/2020:21:04:21] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:04:21] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:04:21] ENGINE Bus STARTED
+[01/May/2020:21:04:21]  hello there
+[01/May/2020:21:05:55] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:05:55] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:05:55] ENGINE Bus STOPPING
+[01/May/2020:21:05:55] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:05:55] ENGINE Bus STOPPED
+[01/May/2020:21:05:55] ENGINE Bus EXITING
+[01/May/2020:21:05:55] ENGINE Bus EXITED
+[01/May/2020:21:05:55] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:05:55] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:05:56] ENGINE Bus STARTING
+[01/May/2020:21:05:56] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:05:56] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:05:56] ENGINE Bus STARTED
+[01/May/2020:21:06:06] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:06:06] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:06:06] ENGINE Bus STOPPING
+[01/May/2020:21:06:06] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:06:06] ENGINE Bus STOPPED
+[01/May/2020:21:06:06] ENGINE Bus EXITING
+[01/May/2020:21:06:06] ENGINE Bus EXITED
+[01/May/2020:21:06:06] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:06:06] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:06:07] ENGINE Bus STARTING
+[01/May/2020:21:06:07] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:06:07] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:06:07] ENGINE Bus STARTED
+[01/May/2020:21:06:39] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:06:39] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:06:39] ENGINE Bus STOPPING
+[01/May/2020:21:06:39] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:06:39] ENGINE Bus STOPPED
+[01/May/2020:21:06:39] ENGINE Bus EXITING
+[01/May/2020:21:06:39] ENGINE Bus EXITED
+[01/May/2020:21:06:39] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:06:39] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:06:40] ENGINE Bus STARTING
+[01/May/2020:21:06:40] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:06:40] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:06:40] ENGINE Bus STARTED
+[01/May/2020:21:06:41]  hello there
+[01/May/2020:21:06:41] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 32, in index
+    return google_appid["naam"],cherrypy.request.cookie["secret_key"]
+KeyError: 'secret_key'
+[01/May/2020:21:06:41] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:06:42]  hello there
+[01/May/2020:21:06:42] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 32, in index
+    return google_appid["naam"],cherrypy.request.cookie["secret_key"]
+KeyError: 'secret_key'
+[01/May/2020:21:06:42] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:06:43]  hello there
+[01/May/2020:21:06:43] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 697, in _do_respond
+    response.body = self.handler()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/lib/encoding.py", line 219, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cpdispatch.py", line 54, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "learning_cherrypy.py", line 32, in index
+    return google_appid["naam"],cherrypy.request.cookie["secret_key"]
+KeyError: 'secret_key'
+[01/May/2020:21:06:43] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:00] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:07:00] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:07:00] ENGINE Bus STOPPING
+[01/May/2020:21:07:00] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:07:00] ENGINE Bus STOPPED
+[01/May/2020:21:07:00] ENGINE Bus EXITING
+[01/May/2020:21:07:00] ENGINE Bus EXITED
+[01/May/2020:21:07:00] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:07:00] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:07:01] ENGINE Bus STARTING
+[01/May/2020:21:07:01] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:07:01] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:07:01] ENGINE Bus STARTED
+[01/May/2020:21:07:02]  hello there
+[01/May/2020:21:07:02] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:07:02] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:02]  hello there
+[01/May/2020:21:07:02] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:07:02] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:03]  hello there
+[01/May/2020:21:07:03] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:07:03] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:03]  hello there
+[01/May/2020:21:07:03] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:07:03] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:03]  hello there
+[01/May/2020:21:07:03] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:07:03] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:07:44] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:07:44] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:07:44] ENGINE Bus STOPPING
+[01/May/2020:21:07:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:07:44] ENGINE Bus STOPPED
+[01/May/2020:21:07:44] ENGINE Bus EXITING
+[01/May/2020:21:07:44] ENGINE Bus EXITED
+[01/May/2020:21:07:44] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:07:44] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:07:44] ENGINE Bus STARTING
+[01/May/2020:21:07:44] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:07:44] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:07:44] ENGINE Bus STARTED
+[01/May/2020:21:07:48] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:07:48] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:07:48] ENGINE Bus STOPPING
+[01/May/2020:21:07:48] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:07:48] ENGINE Bus STOPPED
+[01/May/2020:21:07:48] ENGINE Bus EXITING
+[01/May/2020:21:07:48] ENGINE Bus EXITED
+[01/May/2020:21:07:48] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:07:48] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:07:49] ENGINE Bus STARTING
+[01/May/2020:21:07:49] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:07:49] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:07:49] ENGINE Bus STARTED
+[01/May/2020:21:07:55]  hello there
+[01/May/2020:21:11:05] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:11:05] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:11:05] ENGINE Bus STOPPING
+[01/May/2020:21:11:48] ENGINE Bus STARTING
+[01/May/2020:21:11:48] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:11:48] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:11:48] ENGINE Bus STARTED
+[01/May/2020:21:11:50]  hello there
+[01/May/2020:21:12:14] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:12:14] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:12:14] ENGINE Bus STOPPING
+[01/May/2020:21:12:14] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:12:14] ENGINE Bus STOPPED
+[01/May/2020:21:12:14] ENGINE Bus EXITING
+[01/May/2020:21:12:14] ENGINE Bus EXITED
+[01/May/2020:21:12:14] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:12:14] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:12:15] ENGINE Bus STARTING
+[01/May/2020:21:12:15] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:12:15] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:12:15] ENGINE Bus STARTED
+[01/May/2020:21:12:16]  hello there
+[01/May/2020:21:12:16] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:16] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:17]  hello there
+[01/May/2020:21:12:17] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:17] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:18]  hello there
+[01/May/2020:21:12:18] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:18] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:31] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:12:31] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:12:31] ENGINE Bus STOPPING
+[01/May/2020:21:12:31] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:12:31] ENGINE Bus STOPPED
+[01/May/2020:21:12:31] ENGINE Bus EXITING
+[01/May/2020:21:12:31] ENGINE Bus EXITED
+[01/May/2020:21:12:31] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:12:31] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:12:32] ENGINE Bus STARTING
+[01/May/2020:21:12:32] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:12:32] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:12:32] ENGINE Bus STARTED
+[01/May/2020:21:12:36]  hello there
+[01/May/2020:21:12:36] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:36] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:37]  hello there
+[01/May/2020:21:12:37] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:37] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:38]  hello there
+[01/May/2020:21:12:38] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:38] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:38]  hello there
+[01/May/2020:21:12:38] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:38] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:12:38]  hello there
+[01/May/2020:21:12:38] HTTP 
+Traceback (most recent call last):
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 638, in respond
+    self._do_respond(path_info)
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 702, in _do_respond
+    response.finalize()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 898, in finalize
+    content = self.collapse_body()
+  File "/home/mahiti/.local/lib/python3.6/site-packages/cherrypy/_cprequest.py", line 856, in collapse_body
+    new_body = b''.join(self.body)
+TypeError: sequence item 1: expected a bytes-like object, Morsel found
+[01/May/2020:21:12:38] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:9090
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  SEC-FETCH-SITE: none
+  SEC-FETCH-MODE: navigate
+  SEC-FETCH-USER: ?1
+  SEC-FETCH-DEST: document
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.9
+  COOKIE: seckret_key=asdasdasdasda; csrftoken=fPqE350HuvnGtRMQodnFpmAwulm1wPXSLblHEu4vkealwsTIiS4ozkmy6BO6i5V3; sessionid=lo8p7g2mhksmoxvs7fb8dv3rmsfw4mtg
+[01/May/2020:21:14:01] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:14:01] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:14:01] ENGINE Bus STOPPING
+[01/May/2020:21:14:01] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:14:01] ENGINE Bus STOPPED
+[01/May/2020:21:14:01] ENGINE Bus EXITING
+[01/May/2020:21:14:01] ENGINE Bus EXITED
+[01/May/2020:21:14:01] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:14:01] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:14:02] ENGINE Bus STARTING
+[01/May/2020:21:14:02] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:14:02] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:14:02] ENGINE Bus STARTED
+[01/May/2020:21:14:02]  hello there
+[01/May/2020:21:14:08]  hello there
+[01/May/2020:21:14:08]  hello there
+[01/May/2020:21:14:28] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:14:28] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:14:28] ENGINE Bus STOPPING
+[01/May/2020:21:14:28] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:14:28] ENGINE Bus STOPPED
+[01/May/2020:21:14:28] ENGINE Bus EXITING
+[01/May/2020:21:14:28] ENGINE Bus EXITED
+[01/May/2020:21:14:28] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:14:28] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:14:29] ENGINE Bus STARTING
+[01/May/2020:21:14:29] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:14:29] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:14:29] ENGINE Bus STARTED
+[01/May/2020:21:14:30]  hello there
+[01/May/2020:21:14:31]  hello there
+[01/May/2020:21:14:37] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[01/May/2020:21:14:37] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:14:37] ENGINE Bus STOPPING
+[01/May/2020:21:14:39]  hello there
+[01/May/2020:21:14:39] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:14:39] ENGINE Bus STOPPED
+[01/May/2020:21:14:39] ENGINE Bus EXITING
+[01/May/2020:21:14:39] ENGINE Bus EXITED
+[01/May/2020:21:14:39] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:14:39] ENGINE Re-spawning python3 learning_cherrypy.py
+[01/May/2020:21:14:40] ENGINE Bus STARTING
+[01/May/2020:21:14:40] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:14:40] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:14:40] ENGINE Bus STARTED
+[01/May/2020:21:14:42]  hello there
+[01/May/2020:21:15:00] ENGINE Keyboard Interrupt: shutting down bus
+[01/May/2020:21:15:00] ENGINE Bus STOPPING
+[01/May/2020:21:15:00] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:15:00] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:15:00] ENGINE Bus STOPPED
+[01/May/2020:21:15:00] ENGINE Bus EXITING
+[01/May/2020:21:15:00] ENGINE Bus EXITED
+[01/May/2020:21:15:00] ENGINE Waiting for child threads to terminate...
+[01/May/2020:21:15:02] ENGINE Bus STARTING
+[01/May/2020:21:15:02] ENGINE Started monitor thread 'Autoreloader'.
+[01/May/2020:21:15:02] ENGINE Serving on http://127.0.0.1:9090
+[01/May/2020:21:15:02] ENGINE Bus STARTED
+[01/May/2020:21:15:11] ENGINE Keyboard Interrupt: shutting down bus
+[01/May/2020:21:15:11] ENGINE Bus STOPPING
+[01/May/2020:21:15:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[01/May/2020:21:15:11] ENGINE Stopped thread 'Autoreloader'.
+[01/May/2020:21:15:11] ENGINE Bus STOPPED
+[01/May/2020:21:15:11] ENGINE Bus EXITING
+[01/May/2020:21:15:11] ENGINE Bus EXITED
+[01/May/2020:21:15:11] ENGINE Waiting for child threads to terminate...
