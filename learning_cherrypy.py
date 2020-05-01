@@ -9,6 +9,7 @@ db_logger = logging.getLogger('db')
 
 class Blog(object):
     @cherrypy.expose
+    dd = ""
     def index(self):
         return "Hello THis my First Blog................"
 
