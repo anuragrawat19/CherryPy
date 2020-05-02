@@ -8,7 +8,7 @@ logger = logging.getLogger()
 db_logger = logging.getLogger('db')
 
 #Basic Understanding of Cherrypy
-
+#cherrypy the python webframework
 class Blog(object):
     @cherrypy.expose
     def index(self):
