@@ -2316,3 +2316,16 @@ Request Headers:
 [02/May/2020:08:11:25] ENGINE Started monitor thread 'Autoreloader'.
 [02/May/2020:08:11:25] ENGINE Serving on http://127.0.0.1:9090
 [02/May/2020:08:11:25] ENGINE Bus STARTED
+[02/May/2020:08:25:11] ENGINE Restarting because /home/mahiti/Desktop/CherryPy/learning_cherrypy.py changed.
+[02/May/2020:08:25:11] ENGINE Stopped thread 'Autoreloader'.
+[02/May/2020:08:25:11] ENGINE Bus STOPPING
+[02/May/2020:08:25:11] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 9090)) shut down
+[02/May/2020:08:25:11] ENGINE Bus STOPPED
+[02/May/2020:08:25:11] ENGINE Bus EXITING
+[02/May/2020:08:25:11] ENGINE Bus EXITED
+[02/May/2020:08:25:11] ENGINE Waiting for child threads to terminate...
+[02/May/2020:08:25:11] ENGINE Re-spawning python3 learning_cherrypy.py
+[02/May/2020:08:25:12] ENGINE Bus STARTING
+[02/May/2020:08:25:12] ENGINE Started monitor thread 'Autoreloader'.
+[02/May/2020:08:25:12] ENGINE Serving on http://127.0.0.1:9090
+[02/May/2020:08:25:12] ENGINE Bus STARTED

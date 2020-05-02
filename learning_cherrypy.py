@@ -7,7 +7,7 @@ import logging.config
 logger = logging.getLogger()
 db_logger = logging.getLogger('db')
 
-
+#Basic Understanding of Cherrypy
 
 class Blog(object):
     @cherrypy.expose
